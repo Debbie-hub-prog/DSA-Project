@@ -18,4 +18,5 @@ Tools Used
 
   ### Data Cleaning and Preparation
   In the initial phaseof the Data cleaning and ppreparations, we perform the following actions
-  1. Data loading 
+  1. Data loading and Inspection
+  2. Handling mission 
