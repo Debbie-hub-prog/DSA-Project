@@ -3,20 +3,21 @@
 ### DSA Project
 DSA CLASS DOCUMENTATION 
 ## PROJECT Topic: E Commerce Sales Analysis
-Project Overview
-This Data Analysis project aims to geherate insight into the sales performance 
-This is where i built my first portfolio while learning at the incubator Hub
+### Project Overview
+This Data Analysis project aims to generate insight into the sales performance in the past year. By analyzing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enables us to tell compelling stories around our data from the insight gotten and to know the best performance from our data  
 
+This documentation will enable us to make better decision and tell a compelling story
 
-Data Source
-The primary data used here is Sales csv and this is an open source
+## Data Sources
+The primary data used here is Sales csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site. 
 
 
 Tools Used
-* Ms Excell for Data cleaning (Download here)(https://www.microsft.com)
-* SQL Server (For Querrying and Analysis)
-* Power Bi (For creating report)
-* MS Power Point (For Presentation)
+-  Ms Excell for Data cleaning [Download](https://www.microsoft.com)
+    -    This is where the work get started.
+-  SQL Server (For Querrying and Analysis)
+-  Power Bi (For creating report)
+-  MS Power Point (For Presentation)
 
   ### Data Cleaning and Preparation
   In the initial phaseof the Data cleaning and ppreparations, we perform the following actions
