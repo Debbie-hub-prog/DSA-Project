@@ -2,7 +2,7 @@
 ## DSA Project
 ### DSA Project
 DSA CLASS DOCUMENTATION 
-PROJECT Topic: E Commerce Sales Analysis
+## PROJECT Topic: E Commerce Sales Analysis
 Project Overview
 This Data Analysis project aims to geherate insight into the sales performance 
 This is where i built my first portfolio while learning at the incubator Hub
