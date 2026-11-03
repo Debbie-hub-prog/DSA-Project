@@ -36,3 +36,10 @@ SELECT A,B,C
 
 WHERE A >B
 '''
+
+### Visualisation
+<img width="1280" height="905" alt="tufted-duck PIX" src="https://github.com/user-attachments/assets/cd8851f4-5889-403a-bb02-57ca714b9a11" />
+
+____
+<img width="6288" height="4566" alt="3" src="https://github.com/user-attachments/assets/8a5cbc74-494d-47d3-b6ae-236069ce74b9" />
+
